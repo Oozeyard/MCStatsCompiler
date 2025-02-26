@@ -220,7 +220,7 @@ ID,Name,Form,Cobblemon,Cobblemonform,Legendary
 491,Darkrai, ,darkrai,normal,true
 555,Darmanitan,Standard Mode,darmanitan,normal,false
 555,Darmanitan,Zen Mode,darmanitan,UNKNOWN,false
-555,Darmanitan,Galarian Standard Mode,darmanitan,UNKNOWN,false
+555,Darmanitan,Galarian Standard Mode,darmanitan,galar,false
 555,Darmanitan,Galarian Zen Mode,darmanitan,UNKNOWN,false
 723,Dartrix, ,dartrix,normal,false
 554,Darumaka, ,darumaka,normal,false
@@ -490,7 +490,7 @@ ID,Name,Form,Cobblemon,Cobblemonform,Legendary
 859,Impidimp, ,impidimp,normal,false
 727,Incineroar, ,incineroar,normal,false
 876,Indeedee,Male,indeedee,normal,false
-876,Indeedee,Female,indeedee,UNKNOWN,false
+876,Indeedee,Female,indeedee,female,false
 392,Infernape, ,infernape,normal,false
 686,Inkay, ,inkay,normal,false
 818,Inteleon, ,inteleon,normal,false
@@ -737,7 +737,7 @@ ID,Name,Form,Cobblemon,Cobblemonform,Legendary
 95,Onix, ,onix,normal,false
 765,Oranguru, ,oranguru,normal,false
 826,Orbeetle, ,orbeetle,normal,false
-741,Oricorio,Baile Style,oricorio,UNKNOWN,false
+741,Oricorio,Baile Style,oricorio,normal,false
 741,Oricorio,Pom-Pom Style,oricorio,UNKNOWN,false
 741,Oricorio,Pa'u Style,oricorio,UNKNOWN,false
 741,Oricorio,Sensu Style,oricorio,UNKNOWN,false
